@@ -1,4 +1,4 @@
-![👋 Hi, my name is Sharlene Shih](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+![👋 Hi, my name is Sharlene Shih](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
 <div id="toc">
   <ul align="center" style="list-style: none">
@@ -20,6 +20,7 @@
 - 💼 I'm currently working on: **💻 Developing a new e-commerce platform using React and Node.js**
 - 🌱 I'm currently learning: **📚 C# **
 - 💬 Ask me about: **💡 JavaScript, React, Node.js, MongoDB, and RESTful APIs**
+- ⚡ Fun fact: **🛋️ Calm and Code**
 
  **<h3 align="left">Skills</h3>**
 
